@@ -23,8 +23,8 @@
 </dependencies>
 <distributionManagement>
   <repository>
-    <id>Releases</id>
-        <url>http://13.233.102.101:8081/nexus/content/repositories/releases</url>
+    <id>releases</id>
+    <url>http://13.233.102.101:8081/nexus/content/repositories/releases</url>
   </repository>
 </distributionManagement>
 </project>
